@@ -1,3 +1,9 @@
+
+<?php
+ include_once 'class/conecta.php';
+
+?>
+
 <!doctype html>
   <html lang="pt">
   <head>
